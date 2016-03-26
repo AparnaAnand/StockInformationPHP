@@ -1,0 +1,2 @@
+The program aims to obtain current stock information using the Markit On Demand API. User inputs the company name or a keyword (assocated with a company), and the system displays the relevant company list first, and on further selection of the company, the company's current stock information is displayed.
+It is a PHP program which reads the XML and JSON formatted output files of the API and diaplys in a table form.
